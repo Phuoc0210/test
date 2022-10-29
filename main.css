@@ -7,13 +7,12 @@
 }
 
 .box1 {
-    width: 100%;
-    background-color: green;
+    width: 80%;
 }
 
 .box2 {
     width: 50%;
-    background-color: violet;
+    background-color: blue;
 }
 
 .box3 {
